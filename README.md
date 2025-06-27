@@ -4,9 +4,14 @@
 
 ## 🧩 Games Included
 
-- 🃏 **Blackjack** — Classic card game simulation  
-- 👀 **Hide and Seek** — Interactive hide-and-seek style game  
-- 🧵 **Needle in a Haystack** — Puzzle game finding a needle in a haystack  
+- 🃏 **Blackjack**  
+  Classic card game simulation  
+
+- 👀 **Hide and Seek**  
+  Interactive hide-and-seek style game  
+
+- 🧵 **Needle in a Haystack**  
+  Puzzle game finding a needle in a haystack  
 
 ## 🚀 Getting Started
 
