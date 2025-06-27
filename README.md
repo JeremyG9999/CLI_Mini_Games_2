@@ -1,14 +1,14 @@
-# CLI Mini Games 2
+# 🎮 CLI Mini Games 2
 
-A second collection of engaging command-line interface (CLI) mini games implemented in Python.
+🕹️ A second collection of engaging command-line interface (CLI) mini games implemented in Python.
 
-## Games Included
+## 🧩 Games Included
 
-- **Blackjack** — Classic card game simulation  
-- **Hide and Seek** — Interactive hide-and-seek style game  
-- **Needle in a Haystack** — Puzzle game finding a needle in a haystack
+- 🃏 **Blackjack** — Classic card game simulation  
+- 👀 **Hide and Seek** — Interactive hide-and-seek style game  
+- 🧵 **Needle in a Haystack** — Puzzle game finding a needle in a haystack  
 
-## Getting Started
+## 🚀 Getting Started
 
 Clone the repository:
 
